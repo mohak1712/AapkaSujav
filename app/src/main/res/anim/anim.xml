@@ -1,0 +1,20 @@
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:name="http://schemas.android.com/apk/res-auto">
+    <translate android:fromYDelta="100%p" android:toYDelta="0"
+        android:duration="300"/>
+
+    <!-->android:duration – Duration of the animation in which the animation should complete
+
+android:startOffset – It is the waiting time before an animation starts. This property is mainly used to perform multiple animations in a sequential manner
+
+android:interpolator – It is the rate of change in animation
+
+android:fillAfter – This defines whether to apply the animation transformation after the animation completes or not. If it sets to false the element changes to its previous state after the animation. This attribute should be use with <set> node
+
+android:repeatMode – This is useful when you want your animation to be repeat
+
+android:repeatCount – This defines number of repetitions on animation. If you set this value to infinite then animation will repeat infinite times
+
+<!-->
+
+</set>

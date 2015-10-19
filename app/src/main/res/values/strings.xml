@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Aapka Sujav</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_form">Form</string>
+    <string name="title_activity_recycler_view">RecyclerView</string>
+    <string name="title_activity_recycler">Recycler</string>
+    <string name="title_activity_clean_city">CleanCity</string>
+    <string name="title_activity_post_image">PostImage</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_result">Result</string>
+</resources>
